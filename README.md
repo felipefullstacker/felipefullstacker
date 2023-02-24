@@ -26,7 +26,7 @@
 
 <br><br><br><br><br><br><br>
 
-![snake gif](https://github.com/felipefullstacker/felipefullstacke/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/felipefullstacker/felipefullstacker/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Tecnologias que uso atualmente
