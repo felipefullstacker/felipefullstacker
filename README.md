@@ -26,6 +26,8 @@
 
 <br><br><br><br><br><br><br>
 
+[![Snake Game](https://github.com/felipefullstacker/felipefullstacker/actions/workflows/main.yml/badge.svg)](https://github.com/felipefullstacker/felipefullstacker/actions/workflows/main.yml)
+
 ## Tecnologias que uso atualmente
 
 
