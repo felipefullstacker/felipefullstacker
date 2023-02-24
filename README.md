@@ -54,14 +54,8 @@
 ------
 <br>
 
-### Github Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=felipefullstacker&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Luiz Felipe Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefullstacker&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Luiz Felipe's Top Languages">
-
 <p align="center">
-    NOTA: Os principais idiomas não indicam meu nível de habilidade ou algo assim, é uma métrica do GitHub dos quais as linguagens eu mais uso no GitHub. É um novo recurso das estatísticas github-readme.
+    NOTA: As principais linguagens não indicam meu nível de habilidade ou algo assim, é uma métrica do GitHub dos quais as linguagens eu mais uso no GitHub. É um novo recurso das estatísticas github-readme.
 </p>
 
 -----
