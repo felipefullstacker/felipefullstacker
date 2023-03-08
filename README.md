@@ -10,8 +10,6 @@
 - 📫 Email: **luizfelipelb2018@gmail.com**
 - 📝 Fiz Colegial na EEEP Giselda Teixeira
 - 💬 Perguntas sobre: qualquer coisa, ficarei feliz em ajudar!
-- 	<img src="https://komarev.com/ghpvc/?username=felipefullstackerlabel=Profile%20views&color=brightgreen&style=plastic" alt="Views no perfil" /> 
-	<a href="https://github.com/felipefullstacker?tab=followers"><img src="https://img.shields.io/github/followers/felipefullstacker?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
 <p align="center">
